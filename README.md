@@ -1,1 +1,2 @@
-# DeepLearning_practice
+## DeepLearning_practice
+かめさんのDL講座のコードをアップするためのリポジトリ
